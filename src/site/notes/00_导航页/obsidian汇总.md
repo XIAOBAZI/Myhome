@@ -1,5 +1,5 @@
 ---
-{"title":"obsidian汇总","dg-publish":true,"dg-home":true,"permalink":"/00/obsidian/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"title":"obsidian","dg-publish":true,"dg-home":true,"permalink":"/00/obsidian/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 
